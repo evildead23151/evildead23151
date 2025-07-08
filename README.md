@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Gitesh Malik
 
-<!--
-**evildead23151/evildead23151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sophomore @ DTU | 🔭 Exploring Data Science, Machine Learning, and Full-Stack Development  
+🚀 Passionate about building smart, scalable systems that solve real problems.
 
-Here are some ideas to get you started:
+## 💡 What I'm Working On
+- `SQL Data Warehouse Project` – ETL, modeling & analytics using SQL Server
+- `LinkedIn Resource App` – Automating resource-sharing ethically
+- `ML Projects` – Regression, MLflow, and deployment experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Learning Focus (2025)
+- Advanced Python & ML Ops
+- Open Source Contributions (GSSoC, Hacktoberfest)
+- Full-stack Development with MERN
+
+## 📈 GitHub Stats
+![Gitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=evildead23151&show_icons=true&theme=radical)
+
+---
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gitesh-malik-57185b309) |  📩 giteshmalik0410@gmail.com
