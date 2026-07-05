@@ -26,16 +26,16 @@
 
 ### What I build
 
-I like work where the model, the system, and the product all matter.  
+I like work where the model, the system, and the product all matter.
 My focus is on practical AI, robust backend systems, and research-style engineering that can survive real constraints.
 
 ### Current focus
 
-- Deep Reinforcement Learning from first principles
-- AI products with measurable utility
-- Systems thinking for scalable software
-- Open-source contributions
-- Shipping projects instead of collecting ideas
+* Deep Reinforcement Learning from first principles
+* AI products with measurable utility
+* Systems thinking for scalable software
+* Open-source contributions
+* Shipping projects instead of collecting ideas
 
 ### Featured projects
 
@@ -78,6 +78,35 @@ My focus is on practical AI, robust backend systems, and research-style engineer
   </tr>
 </table>
 
+### More projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Kodex</h3>
+      <p>Next-generation SaaS coding platform built around real-time IDE synchronization and collaborative development.</p>
+      <p><b>Stack:</b> TypeScript</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>NexusTalk</h3>
+      <p>Language exchange platform connecting learners through real-time video calls and chat for meaningful practice.</p>
+      <p><b>Stack:</b> JavaScript</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>weather-app</h3>
+      <p>Clean, lightweight weather app with real-time forecasts, location-based weather, and global city search.</p>
+      <p><b>Stack:</b> JavaScript, HTML, CSS</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Trial / Experimental Work</h3>
+      <p>Small prototypes and experiments kept for rapid iteration, learning, and testing ideas quickly.</p>
+      <p><b>Stack:</b> Mixed</p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### Tech stack
@@ -102,10 +131,10 @@ I care about correctness over hype, systems over surface-level demos, and measur
 
 ### Contact
 
-- Email: giteshmalik0410@gmail.com
-- LinkedIn: https://www.linkedin.com/in/gitesh-malik-57185b309/
-- LeetCode: https://leetcode.com/u/evildead2315/
-- Kaggle: https://www.kaggle.com/giteshmalikk
+* Email: [giteshmalik0410@gmail.com](mailto:giteshmalik0410@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/gitesh-malik-57185b309/
+* LeetCode: https://leetcode.com/u/evildead2315/
+* Kaggle: https://www.kaggle.com/giteshmalikk
 
 <p align="center">
   <i>Build things that are hard to fake.</i>
